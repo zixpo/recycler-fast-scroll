@@ -6,8 +6,7 @@ Recycler Fast Scroll ![Icon](./sample/src/main/res/mipmap-mdpi/ic_launcher.png)
 Widget for `RecyclerView` fast scrolling, like Android's built-in fast scroll option for `ListView`.  
 Supports any vertically scrolling `LayoutManager`, as well as proper integration for `AppBarLayout`. 
 
-This is just an updated version of the [original project made by Daniel Ciao](https://github.com/plusCubed/recycler-fast-scrol).
-This uses new rounded style of material design.
+This is just an updated version of the [original project made by Daniel Ciao](https://github.com/plusCubed/recycler-fast-scrol). It uses new rounded style of material design.
 
 ### Dependency
 Add this to your module's `build.gradle` file:
@@ -20,7 +19,7 @@ repositories {
 	
 dependencies {
 	//...
-	implementation 'com.github.pluscubed:recycler-fast-scroll:{latest-version}'
+	implementation 'com.github.zixpo:recycler-fast-scroll:{latest-version}'
 }
 ```
 
